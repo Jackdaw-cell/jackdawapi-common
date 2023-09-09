@@ -1,0 +1,5 @@
+com.jackdawapi.jackdawapicommon.model.entity
+com.jackdawapi.jackdawapicommon.model.entity.OpenAI
+com.jackdawapi.jackdawapicommon.model.enums
+com.jackdawapi.jackdawapicommon.model.vo
+com.jackdawapi.jackdawapicommon.service
